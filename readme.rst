@@ -5,4 +5,4 @@ With role-based access, both Admin and User can harness the system to efficientl
 Built using PHP and the CodeIgniter 3 framework, this app is a straightforward yet powerful solution for tracking and improving tax office operations.
 
 Want to give it a try?
-You can test the app here: https://s.id/pemeriksaanbangkotest
+You can test the app here: https://bit.ly/3Ubuxgq
